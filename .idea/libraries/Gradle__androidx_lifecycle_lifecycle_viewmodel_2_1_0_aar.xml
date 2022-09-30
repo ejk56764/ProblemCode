@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/961fdfe2b35a64eca9633004b84b93eb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/961fdfe2b35a64eca9633004b84b93eb/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/961fdfe2b35a64eca9633004b84b93eb/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

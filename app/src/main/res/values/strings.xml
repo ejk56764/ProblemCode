@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android2DAPI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="vworld_apikey">BEFBEAC6-DD9D-3BF2-9217-0C563EB2AA01</string>
+    <string name="Map_Create">Map_Create</string>
+    <string name="HYBRID">HYBRID</string>
+</resources>

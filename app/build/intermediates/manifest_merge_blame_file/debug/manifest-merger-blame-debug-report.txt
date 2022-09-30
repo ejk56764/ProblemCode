@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Vworld2DAPI"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="14" />
+7-->D:\android2DSample\app\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->D:\android2DSample\app\src\main\AndroidManifest.xml:8:5-67
+9-->D:\android2DSample\app\src\main\AndroidManifest.xml:8:22-64
+10    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+10-->D:\android2DSample\app\src\main\AndroidManifest.xml:9:5-79
+10-->D:\android2DSample\app\src\main\AndroidManifest.xml:9:22-76
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->D:\android2DSample\app\src\main\AndroidManifest.xml:10:5-81
+11-->D:\android2DSample\app\src\main\AndroidManifest.xml:10:22-78
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\android2DSample\app\src\main\AndroidManifest.xml:11:5-81
+12-->D:\android2DSample\app\src\main\AndroidManifest.xml:11:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\android2DSample\app\src\main\AndroidManifest.xml:12:5-80
+13-->D:\android2DSample\app\src\main\AndroidManifest.xml:12:22-77
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->D:\android2DSample\app\src\main\AndroidManifest.xml:13:5-76
+14-->D:\android2DSample\app\src\main\AndroidManifest.xml:13:22-73
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->D:\android2DSample\app\src\main\AndroidManifest.xml:14:5-79
+15-->D:\android2DSample\app\src\main\AndroidManifest.xml:14:22-76
+16
+17    <application
+17-->D:\android2DSample\app\src\main\AndroidManifest.xml:15:5-34:19
+18        android:debuggable="true"
+19        android:icon="@drawable/ic_launcher"
+19-->D:\android2DSample\app\src\main\AndroidManifest.xml:17:9-45
+20        android:label="@string/app_name"
+20-->D:\android2DSample\app\src\main\AndroidManifest.xml:18:9-41
+21        android:theme="@style/AppTheme"
+21-->D:\android2DSample\app\src\main\AndroidManifest.xml:19:9-40
+22        android:usesCleartextTraffic="true" >
+22-->D:\android2DSample\app\src\main\AndroidManifest.xml:16:9-44
+23        android:usesCleartextTraffic="true"
+24        <activity
+24-->D:\android2DSample\app\src\main\AndroidManifest.xml:23:9-32:20
+25            android:name="test.vw.Main"
+25-->D:\android2DSample\app\src\main\AndroidManifest.xml:24:13-40
+26            android:label="@string/app_name" >
+26-->D:\android2DSample\app\src\main\AndroidManifest.xml:26:13-45
+27            <intent-filter>
+27-->D:\android2DSample\app\src\main\AndroidManifest.xml:27:13-31:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\android2DSample\app\src\main\AndroidManifest.xml:28:17-69
+28-->D:\android2DSample\app\src\main\AndroidManifest.xml:28:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\android2DSample\app\src\main\AndroidManifest.xml:30:17-77
+30-->D:\android2DSample\app\src\main\AndroidManifest.xml:30:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="test.vw.test_Main" />
+33-->D:\android2DSample\app\src\main\AndroidManifest.xml:33:9-54
+33-->D:\android2DSample\app\src\main\AndroidManifest.xml:33:19-51
+34    </application>
+35
+36</manifest>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="API_KEY_ACCESS">
+        <item><![CDATA[http://apis.vworld.dev/mobileApikey.do?SERVICE=android&&APIKEY=845DEA43-28E1-342C-AD7E-C589DD2528AA]]></item>
+    </string-array>
+
+</resources>
